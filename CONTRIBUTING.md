@@ -1,4 +1,4 @@
-# Contributing to FreeAPI
+﻿# Contributing to FreeAPI
 
 Thank you for your interest in contributing to FreeAPI! We welcome contributions from the software community to help improve and enhance this project.
 
@@ -71,4 +71,4 @@ Together, we can foster a collaborative environment and make a significant impac
 
 ## Contribute as a frontend developer <a name="frontend-contributor"></a>
 
-Are you a Frontend developer looking to create elegant mobile/web apps which consumes FreeAPIs? Then follow this [Frontend Contribution guide](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING_FRONTEND.md) and contribute as a frontend developer
+Are you a Frontend developer looking to create elegant mobile/web apps which consumes FreeAPIs? Then follow this [Frontend Contribution guide](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING_FRONTEND.md) and contribute as a frontend developer

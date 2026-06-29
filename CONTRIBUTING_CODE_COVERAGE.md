@@ -1,4 +1,4 @@
-# FreeAPI Testing Contribution Guide
+﻿# FreeAPI Testing Contribution Guide
 
 Thank you for your interest in contributing to the FreeAPI project to help us deliver our APIs that are battlefield tested. To ensure reliability & stability for our end users, we utilize Playwright, a powerful testing framework to automate testing across all endpoints.
 
@@ -14,7 +14,7 @@ After exploring our open-source community options such as Jest, Jasmine & Playwr
 - in a given module if tests exist, we do not welcome them as long as it is a logical fix
 - test coverage for example frontend apps are not our top priority
 
-**IMPORTANT: Contributor must create an issue with [Testing Contribution](https://github.com/hiteshchoudhary/apihub/issues/new?assignees=&labels=testing&projects=&template=code_coverage.yaml&title=TESTING%3A+%3Ctitle%3E) issue template.**
+**IMPORTANT: Contributor must create an issue with [Testing Contribution](https://github.com/Mohammad-Asfin/API-HUB/issues/new?assignees=&labels=testing&projects=&template=code_coverage.yaml&title=TESTING%3A+%3Ctitle%3E) issue template.**
 
 This ensures coordination and prevents duplicated efforts.
 
@@ -46,7 +46,7 @@ cd apihub
 
 Make sure you have the necessary dependencies of FreeAPI installed for the frontend framework or library you plan to use.
 
-Follow this [README.md section](https://github.com/hiteshchoudhary/apihub/blob/main/README.md#-installation) to know more about setting up the FreeAPI environment
+Follow this [README.md section](https://github.com/Mohammad-Asfin/API-HUB/blob/main/README.md#-installation) to know more about setting up the FreeAPI environment
 
 ## Choosing a Module <a name="choosing-a-module"></a>
 
@@ -101,7 +101,7 @@ Ideally, we do not encourage you to include a new package. Confine your code pra
 
 ## Submitting Your Contribution <a name="submitting-your-contribution"></a>
 
-Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING.md) for a detailed contribution guide on submitting a PR.
+Click [here](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING.md) for a detailed contribution guide on submitting a PR.
 
 Thank you for your contribution to FreeAPI! Your dedication helps make our APIs more accessible and valuable to the community. If you have any questions or need assistance, feel free to reach out to our [Discord](https://hitesh.ai/discord).
 

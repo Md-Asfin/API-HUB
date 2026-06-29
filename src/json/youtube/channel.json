@@ -1,11 +1,11 @@
-{
+﻿{
   "channel": {
     "kind": "youtube#channelListResponse",
     "info": {
       "kind": "youtube#channel",
       "id": "UCXgGY0wkgOzynnHvSEVmE3A",
       "snippet": {
-        "title": "Hitesh Choudhary",
+        "title": "Mohammad Asfin",
         "description": "Website: https://hiteshchoudhary.com\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\nFor the Business purpose, Sponsorships and invitation, reach out at team@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage",
         "customUrl": "@hiteshchoudharydotcom",
         "publishedAt": "2011-10-24T10:25:16Z",
@@ -27,7 +27,7 @@
           }
         },
         "localized": {
-          "title": "Hitesh Choudhary",
+          "title": "Mohammad Asfin",
           "description": "Website: https://hiteshchoudhary.com\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\nFor the Business purpose, Sponsorships and invitation, reach out at team@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage"
         },
         "country": "IN"
@@ -40,7 +40,7 @@
       },
       "brandingSettings": {
         "channel": {
-          "title": "Hitesh Choudhary",
+          "title": "Mohammad Asfin",
           "description": "Website: https://hiteshchoudhary.com\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\nFor the Business purpose, Sponsorships and invitation, reach out at team@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage",
           "keywords": "Programming computers code hitesh udemy Udacity Edx \"machine learning\" python javascript devops cloud",
           "unsubscribedTrailer": "xJq0EQMFGyg",

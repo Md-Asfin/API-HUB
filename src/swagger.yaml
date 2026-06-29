@@ -1,4 +1,4 @@
-openapi: 3.0.3
+﻿openapi: 3.0.3
 info:
   title: FreeAPI
   description: >-
@@ -29,11 +29,11 @@ info:
 
     ## 🏁 Installation
 
-    Follow [these](https://github.com/hiteshchoudhary/apihub#-installation) instructions for the installation and project setup.
+    Follow [these](https://github.com/Mohammad-Asfin/API-HUB#-installation) instructions for the installation and project setup.
 
     ## 🐞 Reporting issues
 
-    If you find API issues or bugs when testing, please create an [issue](https://github.com/hiteshchoudhary/apihub/issues/new) and assign it to a member of the development team.
+    If you find API issues or bugs when testing, please create an [issue](https://github.com/Mohammad-Asfin/API-HUB/issues/new) and assign it to a member of the development team.
   version: 1.3.1
   contact: {}
 servers:
@@ -8964,7 +8964,7 @@ paths:
                                       javascript devops cloud
                                   title:
                                     type: string
-                                    example: Hitesh Choudhary
+                                    example: Mohammad Asfin
                                   unsubscribedTrailer:
                                     type: string
                                     example: xJq0EQMFGyg
@@ -9065,7 +9065,7 @@ paths:
                                       Facebook: www.fb.com/HiteshChoudharyPage
                                   title:
                                     type: string
-                                    example: Hitesh Choudhary
+                                    example: Mohammad Asfin
                               publishedAt:
                                 type: string
                                 example: '2011-10-24T10:25:16Z'
@@ -9113,7 +9113,7 @@ paths:
                                         example: 240
                               title:
                                 type: string
-                                example: Hitesh Choudhary
+                                example: Mohammad Asfin
                           statistics:
                             type: object
                             properties:
@@ -9184,7 +9184,7 @@ paths:
                               Programming computers code hitesh udemy Udacity
                               Edx "machine learning" python javascript devops
                               cloud
-                            title: Hitesh Choudhary
+                            title: Mohammad Asfin
                             unsubscribedTrailer: xJq0EQMFGyg
                           image:
                             bannerExternalUrl: >-
@@ -9257,7 +9257,7 @@ paths:
                               https://instagram.com/hiteshchoudharyofficial
 
                               Facebook: www.fb.com/HiteshChoudharyPage
-                            title: Hitesh Choudhary
+                            title: Mohammad Asfin
                           publishedAt: '2011-10-24T10:25:16Z'
                           thumbnails:
                             default:
@@ -9275,7 +9275,7 @@ paths:
                               url: >-
                                 https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s240-c-k-c0x00ffffff-no-rj
                               width: 240
-                          title: Hitesh Choudhary
+                          title: Mohammad Asfin
                         statistics:
                           hiddenSubscriberCount: false
                           subscriberCount: '801000'
@@ -9438,7 +9438,7 @@ paths:
                                       example: UCXgGY0wkgOzynnHvSEVmE3A
                                     channelTitle:
                                       type: string
-                                      example: Hitesh Choudhary
+                                      example: Mohammad Asfin
                                     defaultAudioLanguage:
                                       type: string
                                       example: en
@@ -9641,7 +9641,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Here is the link to get code files for this
@@ -9767,7 +9767,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://hc.lco.dev/jscamp2
@@ -9892,7 +9892,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Learn to create custom context of Appwrite in
@@ -10019,7 +10019,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Here is a sample snippet that I saved and
@@ -10156,7 +10156,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://hitesh.ai/appwrite
@@ -10285,7 +10285,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://hitesh.ai/appwrite
@@ -10415,7 +10415,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://hc.lco.dev/jscamp2
@@ -10533,7 +10533,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   A really long video showing my setup of a new
@@ -10669,7 +10669,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Document your progress and share your React
@@ -10826,7 +10826,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://hc.lco.dev/jscamp2
@@ -11013,7 +11013,7 @@ paths:
                                 url: https://i.ytimg.com/vi/75hqPk6pq5g/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11081,7 +11081,7 @@ paths:
                                 url: https://i.ytimg.com/vi/dtzfTePFKgM/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - python
@@ -11151,7 +11151,7 @@ paths:
                                 url: https://i.ytimg.com/vi/xJq0EQMFGyg/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - python
@@ -11221,7 +11221,7 @@ paths:
                                 url: https://i.ytimg.com/vi/zg06ec5arCs/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11293,7 +11293,7 @@ paths:
                                 url: https://i.ytimg.com/vi/eSYvfCoWIzA/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11365,7 +11365,7 @@ paths:
                                 url: https://i.ytimg.com/vi/fyEA1R4lFyQ/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11437,7 +11437,7 @@ paths:
                                 url: https://i.ytimg.com/vi/1SMO6kWb9Eo/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11510,7 +11510,7 @@ paths:
                                 url: https://i.ytimg.com/vi/n1edxEq8syI/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - python
@@ -11583,7 +11583,7 @@ paths:
                                 url: https://i.ytimg.com/vi/eaQc7vbV4po/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11659,7 +11659,7 @@ paths:
                                 url: https://i.ytimg.com/vi/qJkey7UPyiw/maxresdefault.jpg
                                 width: 1280
                                 height: 720
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             tags:
                             - Programming
                             - javascript
@@ -11876,7 +11876,7 @@ paths:
                                       Facebook: www.fb.com/HiteshChoudharyPage
                                   title:
                                     type: string
-                                    example: Hitesh Choudhary
+                                    example: Mohammad Asfin
                               publishedAt:
                                 type: string
                                 example: '2011-10-24T10:25:16Z'
@@ -11924,7 +11924,7 @@ paths:
                                         example: 240
                               title:
                                 type: string
-                                example: Hitesh Choudhary
+                                example: Mohammad Asfin
                           statistics:
                             type: object
                             properties:
@@ -11987,7 +11987,7 @@ paths:
                                     example: UCXgGY0wkgOzynnHvSEVmE3A
                                   channelTitle:
                                     type: string
-                                    example: Hitesh Choudhary
+                                    example: Mohammad Asfin
                                   defaultAudioLanguage:
                                     type: string
                                     example: en
@@ -12254,7 +12254,7 @@ paths:
                               https://instagram.com/hiteshchoudharyofficial
 
                               Facebook: www.fb.com/HiteshChoudharyPage
-                            title: Hitesh Choudhary
+                            title: Mohammad Asfin
                           publishedAt: '2011-10-24T10:25:16Z'
                           thumbnails:
                             default:
@@ -12272,7 +12272,7 @@ paths:
                               url: >-
                                 https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s240-c-k-c0x00ffffff-no-rj
                               width: 240
-                          title: Hitesh Choudhary
+                          title: Mohammad Asfin
                         statistics:
                           hiddenSubscriberCount: false
                           subscriberCount: '801000'
@@ -12293,7 +12293,7 @@ paths:
                           snippet:
                             categoryId: '28'
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             defaultAudioLanguage: en
                             description: >-
                               https://hc.lco.dev/jscamp2
@@ -12514,7 +12514,7 @@ paths:
                                   properties:
                                     authorDisplayName:
                                       type: string
-                                      example: Hitesh Choudhary
+                                      example: Mohammad Asfin
                                     authorProfileImageUrl:
                                       type: string
                                       example: >-
@@ -12556,7 +12556,7 @@ paths:
                           topLevelComment:
                             id: Ugy7jJj0-yhsx8HHMFd4AaABAg
                             snippet:
-                              authorDisplayName: Hitesh Choudhary
+                              authorDisplayName: Mohammad Asfin
                               authorProfileImageUrl: >-
                                 https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s48-c-k-c0x00ffffff-no-rj
                               likeCount: 7
@@ -12714,7 +12714,7 @@ paths:
                           topLevelComment:
                             id: Ugy7jJj0-yhsx8HHMFd4AaABAg
                             snippet:
-                              authorDisplayName: Hitesh Choudhary
+                              authorDisplayName: Mohammad Asfin
                               authorProfileImageUrl: >-
                                 https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s48-c-k-c0x00ffffff-no-rj
                               likeCount: 7
@@ -13013,7 +13013,7 @@ paths:
                                       example: UCXgGY0wkgOzynnHvSEVmE3A
                                     channelTitle:
                                       type: string
-                                      example: Hitesh Choudhary
+                                      example: Mohammad Asfin
                                     defaultAudioLanguage:
                                       type: string
                                       example: en
@@ -13216,7 +13216,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Here is the link to get code files for this
@@ -13342,7 +13342,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   https://www.benq.com/en-in/monitor/home/gw3290qt.html?utm_source=youtube.com&utm_medium=social&utm_campaign=lcd-productivity-review-gw3290qt-hitesh-choudhary-youtube-202306&utm_content=review&utm_term=learn-more
@@ -13461,7 +13461,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: ''
                                 liveBroadcastContent: none
@@ -13516,7 +13516,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en
                                 description: >-
                                   Use this link to check out:
@@ -13636,7 +13636,7 @@ paths:
                               snippet:
                                 categoryId: '28'
                                 channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                                channelTitle: Hitesh Choudhary
+                                channelTitle: Mohammad Asfin
                                 defaultAudioLanguage: en-US
                                 description: >-
                                   Welcome to another saturday live for coders.
@@ -13746,7 +13746,7 @@ paths:
                             snippet:
                               categoryId: '28'
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               defaultAudioLanguage: en
                               description: >-
                                 Here is the link to get code files for this
@@ -13871,7 +13871,7 @@ paths:
                             snippet:
                               categoryId: '28'
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               defaultAudioLanguage: en
                               description: >-
                                 https://www.benq.com/en-in/monitor/home/gw3290qt.html?utm_source=youtube.com&utm_medium=social&utm_campaign=lcd-productivity-review-gw3290qt-hitesh-choudhary-youtube-202306&utm_content=review&utm_term=learn-more
@@ -13989,7 +13989,7 @@ paths:
                             snippet:
                               categoryId: '28'
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               defaultAudioLanguage: en
                               description: ''
                               liveBroadcastContent: none
@@ -14044,7 +14044,7 @@ paths:
                             snippet:
                               categoryId: '28'
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               defaultAudioLanguage: en
                               description: >-
                                 Use this link to check out:
@@ -14163,7 +14163,7 @@ paths:
                             snippet:
                               categoryId: '28'
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               defaultAudioLanguage: en-US
                               description: >-
                                 Welcome to another saturday live for coders.
@@ -14338,7 +14338,7 @@ paths:
                                   example: UCXgGY0wkgOzynnHvSEVmE3A
                                 channelTitle:
                                   type: string
-                                  example: Hitesh Choudhary
+                                  example: Mohammad Asfin
                                 description:
                                   type: string
                                   example: Learn flutter by building mobile apps
@@ -14430,7 +14430,7 @@ paths:
                             kind: youtube#playlist
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: Learn flutter by building mobile apps
                               localized:
                                 description: Learn flutter by building mobile apps
@@ -14467,7 +14467,7 @@ paths:
                             kind: youtube#playlist
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 Learn and master API with our open source
                                 project, https://freeapi.app
@@ -14508,7 +14508,7 @@ paths:
                             kind: youtube#playlist
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 Learn about the lastest nextjs, new ways to
                                 create pages and API routes and middleware. This
@@ -14555,7 +14555,7 @@ paths:
                             kind: youtube#playlist
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 Dive into our comprehensive AWS Certified Cloud
                                 Practitioner playlist. This series is tailored
@@ -14623,7 +14623,7 @@ paths:
                             kind: youtube#playlist
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 A playlist to tease beginners by poking their
                                 sentiment around tools. If you know it, enjoy
@@ -14701,7 +14701,7 @@ paths:
                           kind: youtube#playlist
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: Learn flutter by building mobile apps
                             localized:
                               description: Learn flutter by building mobile apps
@@ -14737,7 +14737,7 @@ paths:
                           kind: youtube#playlist
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               Learn and master API with our open source project,
                               https://freeapi.app
@@ -14777,7 +14777,7 @@ paths:
                           kind: youtube#playlist
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               Learn about the lastest nextjs, new ways to create
                               pages and API routes and middleware. This playlist
@@ -14823,7 +14823,7 @@ paths:
                           kind: youtube#playlist
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               Dive into our comprehensive AWS Certified Cloud
                               Practitioner playlist. This series is tailored to
@@ -14889,7 +14889,7 @@ paths:
                           kind: youtube#playlist
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               A playlist to tease beginners by poking their
                               sentiment around tools. If you know it, enjoy the
@@ -15112,7 +15112,7 @@ paths:
                                       Facebook: www.fb.com/HiteshChoudharyPage
                                   title:
                                     type: string
-                                    example: Hitesh Choudhary
+                                    example: Mohammad Asfin
                               publishedAt:
                                 type: string
                                 example: '2011-10-24T10:25:16Z'
@@ -15160,7 +15160,7 @@ paths:
                                         example: 240
                               title:
                                 type: string
-                                example: Hitesh Choudhary
+                                example: Mohammad Asfin
                           statistics:
                             type: object
                             properties:
@@ -15193,7 +15193,7 @@ paths:
                                 example: UCXgGY0wkgOzynnHvSEVmE3A
                               channelTitle:
                                 type: string
-                                example: Hitesh Choudhary
+                                example: Mohammad Asfin
                               description:
                                 type: string
                                 example: >-
@@ -15304,7 +15304,7 @@ paths:
                                   example: UCXgGY0wkgOzynnHvSEVmE3A
                                 channelTitle:
                                   type: string
-                                  example: Hitesh Choudhary
+                                  example: Mohammad Asfin
                                 description:
                                   type: string
                                   example: >-
@@ -15432,14 +15432,14 @@ paths:
                                   example: UCXgGY0wkgOzynnHvSEVmE3A
                                 videoOwnerChannelTitle:
                                   type: string
-                                  example: Hitesh Choudhary
+                                  example: Mohammad Asfin
                         example:
                           - id: >-
                               UExSQVY2OWRTMXVXU3g0ZXJIR3E4aFdfR0UtRWFqNjByLS41NkI0NEY2RDEwNTU3Q0M2
                             kind: youtube#playlistItem
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 Learn about API and master them with our new
                                 open source project. Check it out here:
@@ -15504,13 +15504,13 @@ paths:
                                   width: 640
                               title: Open Source Project Launch | FreeAPI.app
                               videoOwnerChannelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              videoOwnerChannelTitle: Hitesh Choudhary
+                              videoOwnerChannelTitle: Mohammad Asfin
                           - id: >-
                               UExSQVY2OWRTMXVXU3g0ZXJIR3E4aFdfR0UtRWFqNjByLS4yODlGNEE0NkRGMEEzMEQy
                             kind: youtube#playlistItem
                             snippet:
                               channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              channelTitle: Hitesh Choudhary
+                              channelTitle: Mohammad Asfin
                               description: >-
                                 https://hc.lco.dev/jscamp2
 
@@ -15574,7 +15574,7 @@ paths:
                                   width: 640
                               title: FreeAPI local setup with npm
                               videoOwnerChannelId: UCXgGY0wkgOzynnHvSEVmE3A
-                              videoOwnerChannelTitle: Hitesh Choudhary
+                              videoOwnerChannelTitle: Mohammad Asfin
                   message:
                     type: string
                     example: Playlist fetched successfully
@@ -15655,7 +15655,7 @@ paths:
                               https://instagram.com/hiteshchoudharyofficial
 
                               Facebook: www.fb.com/HiteshChoudharyPage
-                            title: Hitesh Choudhary
+                            title: Mohammad Asfin
                           publishedAt: '2011-10-24T10:25:16Z'
                           thumbnails:
                             default:
@@ -15673,7 +15673,7 @@ paths:
                               url: >-
                                 https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s240-c-k-c0x00ffffff-no-rj
                               width: 240
-                          title: Hitesh Choudhary
+                          title: Mohammad Asfin
                         statistics:
                           hiddenSubscriberCount: false
                           subscriberCount: '801000'
@@ -15684,7 +15684,7 @@ paths:
                         kind: youtube#playlist
                         snippet:
                           channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                          channelTitle: Hitesh Choudhary
+                          channelTitle: Mohammad Asfin
                           description: >-
                             Learn and master API with our open source project,
                             https://freeapi.app
@@ -15723,7 +15723,7 @@ paths:
                           kind: youtube#playlistItem
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               Learn about API and master them with our new open
                               source project. Check it out here:
@@ -15785,13 +15785,13 @@ paths:
                                 width: 640
                             title: Open Source Project Launch | FreeAPI.app
                             videoOwnerChannelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            videoOwnerChannelTitle: Hitesh Choudhary
+                            videoOwnerChannelTitle: Mohammad Asfin
                         - id: >-
                             UExSQVY2OWRTMXVXU3g0ZXJIR3E4aFdfR0UtRWFqNjByLS4yODlGNEE0NkRGMEEzMEQy
                           kind: youtube#playlistItem
                           snippet:
                             channelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            channelTitle: Hitesh Choudhary
+                            channelTitle: Mohammad Asfin
                             description: >-
                               https://hc.lco.dev/jscamp2
 
@@ -15852,7 +15852,7 @@ paths:
                                 width: 640
                             title: FreeAPI local setup with npm
                             videoOwnerChannelId: UCXgGY0wkgOzynnHvSEVmE3A
-                            videoOwnerChannelTitle: Hitesh Choudhary
+                            videoOwnerChannelTitle: Mohammad Asfin
                     message: Playlist fetched successfully
                     statusCode: 200
                     success: true

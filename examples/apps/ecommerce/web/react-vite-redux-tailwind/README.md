@@ -1,9 +1,9 @@
-## ecommerce frontend application
+﻿## ecommerce frontend application
 
-This is an ecommerce client app which is made by consuming freeapi: https://github.com/hiteshchoudhary/apihub.
+This is an ecommerce client app which is made by consuming freeapi: https://github.com/Mohammad-Asfin/API-HUB.
 
 ### Steps to run the code locally
-* Download the freeapi project from: https://github.com/hiteshchoudhary/apihub, and set the project up.
+* Download the freeapi project from: https://github.com/Mohammad-Asfin/API-HUB, and set the project up.
     * Make sure to configure the following:
         * **CORS_ORIGIN as the exact frontend endpoint**.
         * MAILTRAP credentials for emails. (Used in forgot password feature)
@@ -24,7 +24,7 @@ This is an ecommerce client app which is made by consuming freeapi: https://gith
 * Run ```npm run dev```, the development server will start on port 3000: Visit http://localhost:3000 to view the client app.
 
 ### Credits
- * FreeAPI Project:    https://github.com/hiteshchoudhary/apihub
+ * FreeAPI Project:    https://github.com/Mohammad-Asfin/API-HUB
  * API for countries & states: https://countriesnow.space/
  * Design Inspiration: https://www.figma.com/community/file/1219312065205187851
 

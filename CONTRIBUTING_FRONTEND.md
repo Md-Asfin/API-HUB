@@ -1,4 +1,4 @@
-# FreeAPI Frontend Contribution Guide
+﻿# FreeAPI Frontend Contribution Guide
 
 Thank you for your interest in contributing to the FreeAPI project by creating frontend applications! Your efforts play a crucial role in enhancing the user experience and expanding the reach of our APIs. Please follow this guide to ensure a smooth and collaborative contribution process.
 
@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the FreeAPI project by creating f
 - the platform you intend to target.
 - describe your application in detail
 
-**IMPORTANT: Contributor must create an issue with [Frontend Contribution](https://github.com/hiteshchoudhary/apihub/issues/new?assignees=&labels=frontend%2Cenhancement&projects=&template=frontend_contribution.yaml&title=FRONTEND%3A+%3Ctitle%3E) issue template.**
+**IMPORTANT: Contributor must create an issue with [Frontend Contribution](https://github.com/Mohammad-Asfin/API-HUB/issues/new?assignees=&labels=frontend%2Cenhancement&projects=&template=frontend_contribution.yaml&title=FRONTEND%3A+%3Ctitle%3E) issue template.**
 
 This ensures coordination and prevents duplicated efforts.
 
@@ -46,7 +46,7 @@ cd apihub
 
 Make sure you have the necessary dependencies of FreeAPI installed for the frontend framework or library you plan to use.
 
-Follow this [README.md section](https://github.com/hiteshchoudhary/apihub/blob/main/README.md#-installation) to know more about setting up the FreeAPI environment
+Follow this [README.md section](https://github.com/Mohammad-Asfin/API-HUB/blob/main/README.md#-installation) to know more about setting up the FreeAPI environment
 
 ## Choosing a Module <a name="choosing-a-module"></a>
 
@@ -130,7 +130,7 @@ Write tests for your frontend application to ensure its functionality. Include i
 
 ## Submitting Your Contribution <a name="submitting-your-contribution"></a>
 
-Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING.md) for detailed contribution guide on submitting a PR.
+Click [here](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING.md) for detailed contribution guide on submitting a PR.
 
 Thank you for your contribution to FreeAPI! Your dedication helps make our APIs more accessible and valuable to the community. If you have any questions or need assistance, feel free to reach out to our [Discord](https://hitesh.ai/discord).
 
@@ -142,7 +142,7 @@ We value the contributions of our community members, and we want to showcase you
 
 1. **Self-Host the FreeAPI Backend:**
 
-   - Ensure that you have set up and are self-hosting the FreeAPI backend on your server. Detailed instructions can be found in the [README.md Railway one click deploy section](https://github.com/hiteshchoudhary/apihub/blob/main/README.md#-using-railway-one-click-deploy). _(NOTE: You can deploy this app on server that you are comfortable with. Just make sure it is deployed and your deployed frontend can consume it's apis)_
+   - Ensure that you have set up and are self-hosting the FreeAPI backend on your server. Detailed instructions can be found in the [README.md Railway one click deploy section](https://github.com/Mohammad-Asfin/API-HUB/blob/main/README.md#-using-railway-one-click-deploy). _(NOTE: You can deploy this app on server that you are comfortable with. Just make sure it is deployed and your deployed frontend can consume it's apis)_
 
 2. **Consume FreeAPI Backend APIs in Your Frontend:**
 

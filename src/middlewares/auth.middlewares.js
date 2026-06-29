@@ -1,4 +1,4 @@
-import { AvailableUserRoles } from "../constants.js";
+﻿import { AvailableUserRoles } from "../constants.js";
 import { User } from "../models/apps/auth/user.models.js";
 import { ApiError } from "../utils/ApiError.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
@@ -80,7 +80,7 @@ export const avoidInProduction = asyncHandler(async (req, res, next) => {
   } else {
     throw new ApiError(
       403,
-      "This service is only available in the local environment. For more details visit: https://github.com/hiteshchoudhary/apihub/#readme"
+      "This service is only available in the local environment. For more details visit: https://github.com/Mohammad-Asfin/API-HUB/#readme"
     );
   }
 });

@@ -1,4 +1,4 @@
-# FreeAPI.app
+﻿# FreeAPI.app
 
 ## Problem
 
@@ -75,7 +75,7 @@ This ensures that your work is not affected by the server resets and allows you 
 
 **Self-Hosting on Railway _(recommended for personal projects)_:**
 To self-host the FreeAPI.app application, you can take advantage of a pre-built template that is readily available.
-[Click here for detailed docs](https://github.com/hiteshchoudhary/apihub/#-using-railway-one-click-deploy)
+[Click here for detailed docs](https://github.com/Mohammad-Asfin/API-HUB/#-using-railway-one-click-deploy)
 
 # 🏁 Installation
 
@@ -214,19 +214,19 @@ We appreciate your enthusiasm and look forward to your valuable contributions to
 
 Together, we can foster a collaborative environment and make a significant impact in the API integration landscape.
 
-Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING.md) for detailed contribution guide.
+Click [here](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING.md) for detailed contribution guide.
 
 ## 🚀 Contribute by creating frontend application:
 
 Thank you for your interest in contributing to the FreeAPI project by creating frontend applications consuming FreeAPIs! Your efforts play a crucial role in enhancing the user experience and expanding the reach of our APIs. Please follow this guide to ensure a smooth and collaborative contribution process.
 
-Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING_FRONTEND.md) for detailed contribution guide for Frontend Developers 🚀!
+Click [here](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING_FRONTEND.md) for detailed contribution guide for Frontend Developers 🚀!
 
 ## 🧪 Contribute in testing suite
 
 Thank you for your interest in contributing to the FreeAPI project to increase code coverage of our API service that helps us to ship robust endpoints that are battlefield tested. Please follow this guide to ensure a smooth and collaborative contribution process.
 
-Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING_CODE_COVERAGE.md) for detailed contribution guide for increasing code coverage.
+Click [here](https://github.com/Mohammad-Asfin/API-HUB/blob/main/CONTRIBUTING_CODE_COVERAGE.md) for detailed contribution guide for increasing code coverage.
 
 # 📜 Swagger Docs
 
