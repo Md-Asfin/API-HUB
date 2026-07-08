@@ -12,7 +12,9 @@ COPY prepare.js ./
 
 USER node
 
-RUN yarn install --pure-lockfile
+# Set CI=true to skip Husky setup in prepare.js, and install only production dependencies
+ENV CI=true
+RUN yarn install --pure-lockfile --production --ignore-optional
 
 COPY --chown=node:node . .
 
